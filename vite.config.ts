@@ -7,6 +7,6 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: Number(process.env.PORT) || 4173,
-    allowedHosts: ['neuromapai-j0f7.onrender.com'],
+    allowedHosts: ['neuromapai-1.onrender.com'],
   },
 })
